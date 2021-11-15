@@ -1,4 +1,4 @@
 #Default file
 *.lock
 #Default sql database
-*.sqlite
+*.sqlite3
